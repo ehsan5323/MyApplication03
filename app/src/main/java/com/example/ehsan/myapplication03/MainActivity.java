@@ -13,6 +13,12 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "ehsan", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "ehsan", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "ehsan", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "ehsan", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "ehsan", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "ehsan", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "ehsan", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "ehsan", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "ehsan", Toast.LENGTH_SHORT).show();
 
     }
 }
